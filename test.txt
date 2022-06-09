@@ -1,3 +1,1 @@
-This is a different than another commit!
-
-And here we go with commit #2! 
+This is my first GitHub repository!
